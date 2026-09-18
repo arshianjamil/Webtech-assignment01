@@ -2,8 +2,8 @@ A simple personal resume website created using HTML and CSS.
 It presents my professional summary, education, work experience, projects, and skills in a clean resume format.
 
 Technologies used:
-.HTML
-.CSS
+HTML
+CSS
 
 How to Run:
 Download or clone this repository.
